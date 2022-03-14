@@ -1,7 +1,7 @@
 # A Simple C++11 Thread Pool
 
 An example:
-```
+```C++
 #include <iostream>
 #include "thread_pool.hpp"
 
